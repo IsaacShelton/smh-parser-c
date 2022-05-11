@@ -1,0 +1,6 @@
+.DS_Store
+example
+example.exe
+tests
+tests.exe
+*.dSYM/
